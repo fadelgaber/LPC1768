@@ -1,13 +1,13 @@
 # Introduction
 
-This repository contains my work on the LPC1768 ARM mbed. An mbed application board is used for the LCD display.__
-It includes, but is not limited to:__
-**Driving LEDs via a switch**__
-**Driving a 7 segment LCD display**__
-**Driving a timer on the LCD Screen**__
-**Taking an input from the PC to set the timer**__
-**Controlling a waveform (represented by LEDs) via a joystick**__
-**Use of interrupts**__
+This repository contains my work on the LPC1768 ARM mbed. An mbed application board is used for the LCD display.  
+It includes, but is not limited to:  
+**Driving LEDs via a switch**  
+**Driving a 7 segment LCD display**  
+**Driving a timer on the LCD Screen**  
+**Taking an input from the PC to set the timer**  
+**Controlling a waveform (represented by LEDs) via a joystick**  
+**Use of interrupts**  
 
 ## Installation
 
